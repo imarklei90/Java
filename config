@@ -1,0 +1,5 @@
+#update config
+#Sat Nov 10 11:06:35 CST 2018
+app.version=2.0
+app.username=user2
+app.password=password2
